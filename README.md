@@ -9,4 +9,4 @@ In my journey of Machine Learning and Deep Learning, today I learnt and implemen
  - Video:
   - [****](https://www.youtube.com/playlist?list=PLXo-ki9WzLdjOFbvGz_TXCk7syaJ_2seq)
 
-![Image]()
+[Image]()!
