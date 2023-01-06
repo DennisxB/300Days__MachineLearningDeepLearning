@@ -39,4 +39,16 @@ Today, I learned how to construct and implement Binary and Multiple Logistic Reg
   - [**Multiclass Logistic Regression from Scratch**](https://towardsdatascience.com/multiclass-logistic-regression-from-scratch-9cc0007da372)
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day3.png)
+<hr>
 
+**🎯 Day 4 of #300DaysofData!:**
+
+**Generative Classifiers**<br>
+Today, I read about Generative Classifiers which includes Linear Discriminant Analysis, Quadratic Discriminant Analysis, and Naive Bayes and how to construct and implement them from the book **Machine Learning From Scratch**. I also read blog posts to further grasp the underlying Concepts and their Implications of Modelling Assumptions. Below is a snapshot of Linear Discriminant Analysis, Quadratic Discriminant Analysis, and Naive Bayes implemented using Scikit Learn Library. I hope you will find some to go through the resources mentioned.
+
+- Book:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- Blog:
+  - [**Differences between LDA, QDA and Gaussian Naive Bayes classifiers**](https://towardsdatascience.com/differences-of-lda-qda-and-gaussian-naive-bayes-classifiers-eaa4d1e999f6)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day4.png)
