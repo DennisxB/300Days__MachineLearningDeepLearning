@@ -52,3 +52,15 @@ Today, I read about Generative Classifiers which includes Linear Discriminant An
   - [**Differences between LDA, QDA and Gaussian Naive Bayes classifiers**](https://towardsdatascience.com/differences-of-lda-qda-and-gaussian-naive-bayes-classifiers-eaa4d1e999f6)
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day4.png)
+<hr>
+
+**🎯 Day 5 of #300DaysofData!:**
+
+**Decision Trees**:<br>
+Today, I read about Decision Tree Regressor and Classifier, how it makes Predictions and its Interpretability, how it uses The CART Algorithm to split instances based on low Mean Squared Error for Regression tasks, Gini Impurity and Entropy and also how to tune its Hyperparameters to prevent Overfitting and Underfitting from the book **Machine Learning From Scratch** and **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**. Below is a snapshot of Decision Tree Regressor and Classifier implemented using Scikit Learn Library. I hope you will find some to go through the resources mentioned.
+
+- Book:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day5.png)
