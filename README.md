@@ -64,3 +64,18 @@ Today, I read about Decision Tree Regressor and Classifier, how it makes Predict
   - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day5.png)
+<hr>
+
+**🎯 Day 6 of #300DaysofData!:**
+
+**Tree Ensemble Methods**:<br>
+Ensemble Methods combine the outputs of multiple simple Models which is often called Learners in order to create the fine Model with low variance. Due to their high variance, a decision trees often fail to reach a level of precision comparable to other predictive algorithms and Ensemble Methods also known as Ensemble Learning Algorithms minimize the variance. Today I read and implemented Tree Ensemble Methods such as Bagging  Random Forests and Boosting experimenting with Base Estimators like Naive Bayes, Logistic Regression and Decision Tree, The Discrete AdaBoost Algorithm and AdaBoost for Regression along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. To further broaden my understanding, I used the book **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** to read on Voting Classifiers, Stacking, Out-of-Bag, Random Patches and Subspaces, Feature Importance, Regularization and Hyperparameter tuning of Ensemble Methods to which I applied to a project I have been working on, Exploring Nasa's Turbofan Dataset for Aircraft Predictive Maintenance. Below is a snapshot of Bagging, Random Forest and AdaBoost Classifier implemented using Scikit Learn Library. I hope you will find some to go through the resources mentioned.
+
+- Book:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day6.png)
+
+- Extra: 
+[**Turbofan Predictive Maintenance**](#)
