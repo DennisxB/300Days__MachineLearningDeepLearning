@@ -77,5 +77,17 @@ Ensemble Methods combine the outputs of multiple simple Models which is often ca
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day6.png)
 
-- Extra: 
+- Project Notebook: 
 [**Turbofan Predictive Maintenance**](#)
+<hr>
+
+
+**🎯 Day 7 of #300DaysofData!:**
+
+**Neural Networks**:<br>
+A neural network in this case, artificial neurons called Artificial Neural Network (ANN) is an interconnected group of artificial neurons that uses a mathematical or computational model for information processing. In my journey of Machine Learning and Deep Learning, today I read and implemented Neural Networks along with the Construction of a Feed-Forward Neural Network with the Loop and Matrix Approach which constituted the Model Structure, Communication between Layers, Activation Functions, Optimization of Neural Nets using Back Propagation, Calculating Gradients and Combining Results with the Chain Rule from the same book **Machine Learning From Scratch** . Below is a snapshot of a Feed-Forward Neural Network implemented using Keras. I hope you will find some to go through the resources mentioned.
+
+- Book:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day7.png)
