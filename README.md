@@ -111,6 +111,6 @@ Gradient descent is an iterative approach to approximating the Parameters that M
 Problem framing is the process of analyzing a problem to isolate the individual elements that need to be addressed to solve it and it also helps determine your project's technical feasibility and provides a clear set of goals and success criteria. Today, I read about Problem Framing, Understanding and Framing ML Problems and also the steps to take when tackling ML problems from Google's Machine learning Crash Course.Types of Machine Learning Systems: Supervised and Unsupervised Learning, Batch and Online Learning, Instance-Based Versus Model-Based Learning and also Main Challenges of ML from the book **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**
 
 - Book:
-  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/problem-framing/problem-framing)
