@@ -96,10 +96,21 @@ A neural network in this case, artificial neurons called Artificial Neural Netwo
 **🎯 Day 8 of #300DaysofData!:**
 
 **Gradient Descent and Cross Validation**:<br>
-Gradient descent is an iterative approach to approximating the Parameters that Minimize a Differentiable Loss Function. Cross Validation is a Resampling Procedure used to evaluate Machine Learning Models on a limited Data sample which has a Parameter that splits the data into number of groups. Today, I read and implemented Gradient Descent and Cross validation along with the Construction from the book **Machine Learning From Scratch** . Below is a snapshot of Gradient Descent and Cross Validation using Python and the Numpy Library. I hope you will find some to go through the resources mentioned.
+Gradient descent is an iterative approach to approximating the Parameters that Minimize a Differentiable Loss Function. Cross Validation is a Resampling Procedure used to evaluate Machine Learning Models on a limited Data sample which has a Parameter that splits the data into number of groups. Today, I read and implemented Gradient Descent and Cross validation along with the Construction from the book **Machine Learning From Scratch**. Below is a snapshot of Gradient Descent and Cross Validation using Python and the Numpy Library. I hope you will find some to go through the resources mentioned.
 
 - Book:
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day8a.png)
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day8b.png)
+<hr>
+
+**🎯 Day 9 of #300DaysofData!:**
+
+**Problem Framing and Fundermentals of Machine Learning**:
+Problem framing is the process of analyzing a problem to isolate the individual elements that need to be addressed to solve it and it also helps determine your project's technical feasibility and provides a clear set of goals and success criteria. Today, I read about Problem Framing, Understanding and Framing ML Problems and also the steps to take when tackling ML problems from Google's Machine learning Crash Course.Types of Machine Learning Systems: Supervised and Unsupervised Learning, Batch and Online Learning, Instance-Based Versus Model-Based Learning and also Main Challenges of ML from the book **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+
+- Book:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
+- [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/problem-framing/problem-framing)
