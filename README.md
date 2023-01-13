@@ -113,4 +113,17 @@ Problem framing is the process of analyzing a problem to isolate the individual 
 - Book:
   - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
-- [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/problem-framing/problem-framing)
+- [**Machine Learning Crash Course**](https://developers.google
+<hr>
+
+**🎯 Day 10 of #300DaysofData!:**
+
+Today, I read about Classifications which entailed Training a Binary Classifier, Measuring Accuracy Using Cross-Validation, Multiclass, Multilabel and Multioutput Classification from the **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**. Since I have been learning from the same book for sometime now. I revised on Support Vector Machines, Desicion Trees, Ensemble Learning and Random Forests with their in-depth implementations. Below is repository containing the various notebooks including projects.
+
+- Book:
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+- Notebook:
+  - [**handson-machinelearning**](#)
+<hr>
+
