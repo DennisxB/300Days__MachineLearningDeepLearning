@@ -129,7 +129,7 @@ Today, I read about Classifications which entailed Training a Binary Classifier,
 
 **🎯 Day 11 of #300DaysofData!:**
 
-Today, I read about The Curse of Dimensionality and how it has Effects on Machine Learning Models and the Techniques involved in tackling such problems. Projection and Manifold Learning Approach, PCA, Random Projection and LLE from the **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**. Since I have been learning from the same book for sometime now, I revised on Unsupervised Machine Learning: Clustering, Using KMeans, Anomaly Detection Using Gaussian Mixtures, Bayesian Gaussian Mixture Models, Anomaly and Novelty Detection with their in-depth implementations. Below is repository containing the various notebooks including projects.
+Today, I read about The Curse of Dimensionality and how it has Effects on Machine Learning Models and the Techniques involved in tackling such problems. Projection and Manifold Learning Approach, PCA, Random Projection and LLE from the **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**. Since I have been learning from the same book for sometime now, I revised on Unsupervised Machine Learning: Clustering, Using KMeans, Anomaly Detection Using Gaussian Mixtures, Bayesian Gaussian Mixture Models, Anomaly and Novelty Detection with their in-depth implementations. Below is repository containing the related notebooks.
 
 - Book:
   - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
