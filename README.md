@@ -152,3 +152,15 @@ today, I read and implemented Artificial Neural Networks with Keras. Getting Sta
 
 <hr>
 
+**🎯 Day 13 of #300DaysofData!:**
+
+In my journey of Machine Learning and Deep Learning, today, I read and implemented Training Deep Neural Networks,
+A model with millions of parameters would severely risk overfitting the training set, especially if there are not enough
+training instances or if th There Various Techniques in tackling these problems, i.e The Vanishing/Exploding Gradients
+Problems which includes Glorot and He Initialization, Better Activation Functions such as Leaky RELU, Randomized Leaky ReLU (RReLU), SELU and ELUs, GELU, Swish and Mish, Batch Normalization and Gradient Clipping from the **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**. I also revised on utilising Pretrained Models and Transfer Learning and how they make certain tasks easier, Faster Optimizers and How to avoid Overfitting when training. Below is repository containing the related notebooks.
+
+- Book:
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+- Notebook:
+  - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git)
