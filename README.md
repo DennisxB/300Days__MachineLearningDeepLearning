@@ -124,7 +124,7 @@ Today, I read about Classifications which entailed Training a Binary Classifier,
   - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 - Notebook:
-  - [**handson-machinelearning**](#)
+  - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git))
 <hr>
 
 **🎯 Day 11 of #300DaysofData!:**
@@ -136,7 +136,6 @@ Today, I read about The Curse of Dimensionality and how it has Effects on Machin
 
 - Notebook:
   - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git)
-
 <hr>
 
 **🎯 Day 12 of #300DaysofData!:**
@@ -164,3 +163,18 @@ Problems which includes Glorot and He Initialization, Better Activation Function
 
 - Notebook:
   - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git)
+<hr>
+
+**🎯 Day 14 of #300DaysofData!:**
+
+**Deep Computer Vision Using Convolutional**:<br>
+CNNs have managed to achieve superhuman performance on some complex visual tasks. They power Image Search services, Self-Driving Cars, Automatic Video Classification Systems, and more. Moreover, CNNs are not restricted to visual perception: they are also successful in performing many other tasks, such as Voice Recognition or Natural Language Processing (NLP). In my journey of Machine Learning and Deep Learning, today, I read and implemented Convolutional Neuron Networks using Tensorflow's Keras from the **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**, the Building Blocks of CNNs: Convolutional Layers, Filters, Stacking Multiple Feature Maps, Pooling. Below is a snapshot of the Tensorflow implementation of Convolutional layer and Pooling Layer and also its repository containing the related notebooks.
+
+- Book:
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+- Notebook:
+  - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day14.png)
+<hr>
