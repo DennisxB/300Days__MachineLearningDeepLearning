@@ -178,3 +178,18 @@ CNNs have managed to achieve superhuman performance on some complex visual tasks
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day14.png)
 <hr>
+
+**🎯 Day 15 of #300DaysofData!:**
+
+**CNN Architecture**:<br>
+Typical CNN architectures stack a few Convolutional layers (each one generally fol‐
+lowed by a ReLU layer), then a Pooling layer, then another few Convolutional layers (+ReLU), then another Pooling Layer, and so on. The image gets smaller and smaller as it progresses through the network, but it also typically gets deeper and deeper (i.e., with more Feature Maps) thanks to the Convolutional layers. today I learned and implemented  CNN Architures, Techniques and Construction. I also read about ImageNet Challenge which introduced me AlexNet, LeNet-5, GoogLeNet, VGGNet, ResNet, Xception, and SENet Architectures from the book **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**. I also Constructed ResNet From Scratch using Tensorflow. Below is a snapshot of a CNN Architecture and ResNet From Scratch using Tensorflow and Keras and repository to related notebooks.
+
+- Book:
+  - [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- Notebook:
+  - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day15.png)
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day16.png)
+<hr>
