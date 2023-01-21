@@ -206,3 +206,17 @@ In my journey of Machine Learning and Deep Learning, today, I read about  Object
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day16.png)
 <hr>
+
+**🎯 Day 17 of #300DaysofData!:**
+**Tensor: Multidimensional Arrays**:<br>
+A Tensor is an array that is a Data Structure which stores a collection of numbers that are accessible individually using a index and that can be indexed with multiple indices. On my Journey of Machine Learning and Deep Learning, today, I have read and implemented from the book, **Deep Learning with Pytorch**. I have learned about A Pretrained Neural Network that describes the scenes, NeuralTalk2 Model, Recurrent Neural Network, Torch Hub, Fundamental Building Block: Tensors, The world as Floating Point Numbers, Multidimensional Arrays and Tensors, Lists and Indexing Tensors, Named Tensors, Einsum, Broadcasting and few more Topics related to the same from here. represent that data as tensors. I also went through Fundementals of Pytorch from **Made With ML** for further explanation and implementation to which I was introduced on The Dangers of Transposing (Unintended Consequences), Gradients and Setting up a device to run Tensors. Below is a  simple implementation of the Tensor: Multidimensional Arrays and I hope you find some time to go through the materials mentioned.
+
+- Book:
+  - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+- Notebook:
+  - [**Fundamentals of Pytorch**](https://madewithml.com/courses/foundations/pytorch/)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day17a.png)
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day17b.png)
+<hr>
+
