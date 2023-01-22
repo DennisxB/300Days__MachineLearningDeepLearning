@@ -220,7 +220,7 @@ A Tensor is an array that is a Data Structure which stores a collection of numbe
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day17b.png)
 <hr>
 
-**🎯 Day 17 of #300DaysofData!:**
+**🎯 Day 18 of #300DaysofData!:**
 
 **Real-world Data Representation Using Tensors**:
 
