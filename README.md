@@ -213,10 +213,23 @@ A Tensor is an array that is a Data Structure which stores a collection of numbe
 
 - Book:
   - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
-- Notebook:
+- Made With ML :
   - [**Fundamentals of Pytorch**](https://madewithml.com/courses/foundations/pytorch/)
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day17a.png)
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day17b.png)
+<hr>
+
+**🎯 Day 17 of #300DaysofData!:**
+
+**Real-world Data Representation Using Tensors**:
+
+On my Journey to Machine Learnin and Deep Learning, Today I have learned about Real-world Data Representation with Pytorch which entails Working with Images, Adding Color Channels, Changing Layouts, Normalizing Data. I have also learned how to load and Preprocess Volumentric Data, Representing Tabular Data, Preprocessing and Performing Feature Engineering like Ordinal Encoding and One-Hot Encoding on Categorical Variables with Pytorch from the Book **Deep Learning with Pytorch**.Below is a snapshot of the Implementation of  Working with Images, Changing Layouts, Normalizing Data and also Feature Engineering on the Wine Dataset. I hope you find some time to go through the materials mentioned.
+
+- Book:
+  - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day18a.png)
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day18b.png)
 <hr>
 
