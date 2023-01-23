@@ -190,8 +190,8 @@ lowed by a ReLU layer), then a Pooling layer, then another few Convolutional lay
 - Notebook:
   - [**handson-machinelearning**](https://github.com/DennisxB/handson-machinelearning.git)
 
-![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day15.png)
-![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day16.png)
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day15a.png)
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day15b.png)
 <hr>
 
 **🎯 Day 16 of #300DaysofData!:**
@@ -233,3 +233,14 @@ On my Journey to Machine Learnin and Deep Learning, Today I have learned about R
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day18b.png)
 <hr>
 
+**🎯 Day 19 of #300DaysofData!:**
+
+**Real-world Data Representation Using Tensors**:
+
+On my Journey to Machine Learnin and Deep Learning, Today I have learned about Real-world Data Representation with Pytorch which entails Representing text, Converting text to numbers, One-hot-encoding characters, One-hot-encoding whole words, Text-embeddings and Text-embeddings as a blueprint from the Book **Deep Learning with Pytorch**.Below is a snapshot of the Implementation of Representing text, Converting text to numbers, One-hot-encoding characters, One-hot-encoding whole words, and Text-embeddings. I hope you find some time to go through the materials mentioned.
+
+- Book:
+  - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day19.png)
+<hr>
