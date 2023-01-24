@@ -244,3 +244,14 @@ On my Journey to Machine Learnin and Deep Learning, Today I have learned about R
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day19.png)
 <hr>
+
+**🎯 Day 20 of #300DaysofData!:**
+
+**The Mechanics of Learning**:
+
+On my Journey to Machine Learnin and Deep Learning, Today I have read about Understanding how Algorithms can learn from Data, How Data Collection came about to be used in Machine Learning, The Learning Process, Absolute Deifference versus Deiffernce Squared. Learning is just Parameter Estimation, Data Gathering, Visualizing Data and Training a Learning Model in Pytorch from the Book **Deep Learning with Pytorch**. Below is a snapshot of the Learning Process in Deep Learning. I hope you find some time to go through the materials mentioned.
+
+- Book:
+  - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day20.png)
