@@ -224,7 +224,7 @@ A Tensor is an array that is a Data Structure which stores a collection of numbe
 
 **Real-world Data Representation Using Tensors**:
 
-On my Journey to Machine Learnin and Deep Learning, Today I have learned about Real-world Data Representation with Pytorch which entails Working with Images, Adding Color Channels, Changing Layouts, Normalizing Data. I have also learned how to load and Preprocess Volumentric Data, Representing Tabular Data, Preprocessing and Performing Feature Engineering like Ordinal Encoding and One-Hot Encoding on Categorical Variables with Pytorch from the Book **Deep Learning with Pytorch**.Below is a snapshot of the Implementation of  Working with Images, Changing Layouts, Normalizing Data and also Feature Engineering on the Wine Dataset. I hope you find some time to go through the materials mentioned.
+On my Journey to Machine Learning and Deep Learning, Today I have learned about Real-world Data Representation with Pytorch which entails Working with Images, Adding Color Channels, Changing Layouts, Normalizing Data. I have also learned how to load and Preprocess Volumentric Data, Representing Tabular Data, Preprocessing and Performing Feature Engineering like Ordinal Encoding and One-Hot Encoding on Categorical Variables with Pytorch from the Book **Deep Learning with Pytorch**.Below is a snapshot of the Implementation of  Working with Images, Changing Layouts, Normalizing Data and also Feature Engineering on the Wine Dataset. I hope you find some time to go through the materials mentioned.
 
 - Book:
   - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
@@ -237,7 +237,7 @@ On my Journey to Machine Learnin and Deep Learning, Today I have learned about R
 
 **Real-world Data Representation Using Tensors**:
 
-On my Journey to Machine Learnin and Deep Learning, Today I have learned about Real-world Data Representation with Pytorch which entails Representing text, Converting text to numbers, One-hot-encoding characters, One-hot-encoding whole words, Text-embeddings and Text-embeddings as a blueprint from the Book **Deep Learning with Pytorch**.Below is a snapshot of the Implementation of Representing text, Converting text to numbers, One-hot-encoding characters, One-hot-encoding whole words, and Text-embeddings. I hope you find some time to go through the materials mentioned.
+On my Journey to Machine Learning and Deep Learning, Today I have learned about Real-world Data Representation with Pytorch which entails Representing text, Converting text to numbers, One-hot-encoding characters, One-hot-encoding whole words, Text-embeddings and Text-embeddings as a blueprint from the Book **Deep Learning with Pytorch**.Below is a snapshot of the Implementation of Representing text, Converting text to numbers, One-hot-encoding characters, One-hot-encoding whole words, and Text-embeddings. I hope you find some time to go through the materials mentioned.
 
 - Book:
   - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
@@ -249,9 +249,21 @@ On my Journey to Machine Learnin and Deep Learning, Today I have learned about R
 
 **The Mechanics of Learning**:
 
-On my Journey to Machine Learnin and Deep Learning, Today I have read about Understanding how Algorithms can learn from Data, How Data Collection came about to be used in Machine Learning, The Learning Process, Absolute Deifference versus Deiffernce Squared. Learning is just Parameter Estimation, Data Gathering, Visualizing Data and Training a Learning Model in Pytorch from the Book **Deep Learning with Pytorch**. Below is a snapshot of the Learning Process in Deep Learning. I hope you find some time to go through the materials mentioned.
+On my Journey to Machine Learning and Deep Learning, Today I have read about Understanding how Algorithms can learn from Data, How Data Collection came about to be used in Machine Learning, The Learning Process, Absolute Deifference versus Difference Squared. Learning is just Parameter Estimation, Data Gathering, Visualizing Data and Training a Learning Model in Pytorch from the Book **Deep Learning with Pytorch**. Below is a snapshot of the Learning Process in Deep Learning. I hope you find some time to go through the materials mentioned.
 
 - Book:
   - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day20.png)
+<hr>
+
+**🎯 Day 21 of #300DaysofData!:**
+
+**The Mechanics of Learning**:
+
+A loss function (or cost function) is a function that computes a single numerical value that the learning process will attempt to minimize. The calculation of loss typically involves taking the difference between the desired outputs for some training samples and the outputs actually produced by the model when fed those samples. On my Journey to Machine Learning and Deep Learning, Today I have read about Reframing Learning as Parameter Estimation, using Differentiation and Gradient Descent to Decrease Loss, Forward and Backward Pass, and Walk through a Simple Learning Algorithm in Pytorch from the Book **Deep Learning with Pytorch**. Below is a snapshot of the Implementation of Differentiation and Gradient Descent in Deep Learning. I hope you find some time to go through the materials mentioned.
+
+- Book:
+  - [**Deep Learning with Pytorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/DennisxB/300Days__MachineLearningDeepLearning/blob/main/Images/Day21.png)
